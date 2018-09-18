@@ -1,29 +1,29 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Reflection.Metadata;
+using System.Text;
 
 namespace BilletLibrary
 {
-    public class Bil : Køretøj
+    public class MC : Køretøj
     {
-
-       
+        
         /// <summary>
-        /// Retunerer pris som i denne er 240
+        /// Returnerer pris i dette tilfælde 125
         /// </summary>
         /// <returns></returns>
-        
         public override decimal Pris()
         {
-            return 240;
+            return 125;
         }
         /// <summary>
-        /// Returnerer køretøjtype som i denne er Bil
+        /// Returnerer Køretøj i dette tilfæde "MC"
         /// </summary>
         /// <returns></returns>
         public override string Køretøjet()
         {
-            return "Bil";
+            return "MC";
         }
 
-        
     }
 }
