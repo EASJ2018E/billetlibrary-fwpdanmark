@@ -6,4 +6,5 @@ C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\Billet
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.AssemblyInfo.cs
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.dll
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.pdb
+C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.xml
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.csprojAssemblyReference.cache

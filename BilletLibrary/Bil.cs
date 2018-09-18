@@ -15,10 +15,10 @@ namespace BilletLibrary
         {
             if (brobizz)
             {
-                decimal sum = (240 / 100) * 95;
+                decimal sum = (240m / 100m) * 95m;
                 return sum;
             }
-            return 240;
+            return 240m;
         }
         /// <summary>
         /// Returnerer køretøjtype som i denne er Bil

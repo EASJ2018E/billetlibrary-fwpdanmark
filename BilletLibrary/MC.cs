@@ -16,10 +16,10 @@ namespace BilletLibrary
         {
             if (brobizz)
             {
-                decimal sum = (125/100)*95;
+                decimal sum = (125m/100m)*95m;
                 return sum;
             }
-            return 125;
+            return 125m;
         }
         /// <summary>
         /// Returnerer Køretøj i dette tilfæde "MC"

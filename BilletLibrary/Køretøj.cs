@@ -29,7 +29,7 @@ namespace BilletLibrary
 
         public virtual decimal Pris(bool brobizz)
         {
-            return 0;
+            return 0m;
         }
 
         public virtual string Køretøjet()

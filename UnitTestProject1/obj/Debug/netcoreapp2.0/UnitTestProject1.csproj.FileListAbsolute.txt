@@ -15,3 +15,4 @@ C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\UnitTe
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\UnitTestProject1\bin\Debug\netcoreapp2.0\BilletLibrary.dll
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\UnitTestProject1\bin\Debug\netcoreapp2.0\BilletLibrary.pdb
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CopyComplete
+C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\UnitTestProject1\bin\Debug\netcoreapp2.0\BilletLibrary.xml

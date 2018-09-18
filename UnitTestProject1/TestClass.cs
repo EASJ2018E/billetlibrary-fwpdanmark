@@ -73,7 +73,7 @@ namespace UnitTestProject1
             MC mc = new MC();
 
             decimal pris = mc.Pris(true);
-            decimal exp = (125 / 100) * 95;
+            decimal exp = (125m / 100m) * 95m;
 
             Assert.AreEqual(pris, exp);
 
@@ -85,7 +85,7 @@ namespace UnitTestProject1
             Bil bil = new Bil();
 
             decimal pris = bil.Pris(true);
-            decimal exp = (240 / 100) * 95;
+            decimal exp = (240m / 100m) * 95m;
 
             Assert.AreEqual(pris, exp);
 
