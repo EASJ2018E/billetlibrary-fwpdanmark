@@ -12,8 +12,13 @@ namespace BilletLibrary
         /// Returnerer pris i dette tilfælde 125
         /// </summary>
         /// <returns></returns>
-        public override decimal Pris()
+        public override decimal Pris(bool brobizz)
         {
+            if (brobizz)
+            {
+                decimal sum = (125/100)*95;
+                return sum;
+            }
             return 125;
         }
         /// <summary>

@@ -1,9 +1,9 @@
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.deps.json
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.pdb
-C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.csprojAssemblyReference.cache
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.AssemblyInfoInputs.cache
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.AssemblyInfo.cs
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.dll
 C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.pdb
+C:\Users\Wulff\Google Drive\Programmering\source\billetlibrary-fwpdanmark\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.csprojAssemblyReference.cache
